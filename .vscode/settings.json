@@ -8,6 +8,7 @@
         "regex": "cpp",
         "tuple": "cpp",
         "valarray": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
